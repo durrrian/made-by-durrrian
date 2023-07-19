@@ -1,3 +1,3 @@
-import MadeByDurrrian from "./MadeByDurrrian";
+import MadeByDurrrian from './MadeByDurrrian'
 
-export { MadeByDurrrian };
+export { MadeByDurrrian }
