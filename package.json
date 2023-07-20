@@ -1,6 +1,6 @@
 {
   "name": "made-by-durrrian",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Made by durrrian button on durrrian's project",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
